@@ -28,11 +28,8 @@
   <a href="https://www.instagram.com/brunohenriquefr_bh/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="brunohenriquefrancorodrigues@gmail.com" target="_blank">
+  <a href="https://myaccount.google.com/?hl=pt_BR&utm_source=OGB&utm_medium=act&gar=WzEyMF0&nlr=1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="brunohenrique_bh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
