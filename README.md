@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Aspirante a Desenvolvedor de Software (Aspiring Software Developer)</p>
+<p align="left">Aspiring Software Developer</p>
 
 ###
 
