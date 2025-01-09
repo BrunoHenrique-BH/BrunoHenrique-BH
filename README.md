@@ -1,4 +1,12 @@
-<h1 align="left">Stats</h1>
+<h1 align="left">About Me</h1>
+
+###
+
+<p align="left">Aspirante a Desenvolvedor de Software (Aspiring Software Developer)</p>
+
+###
+
+<h2 align="left">Stats</h2>
 
 ###
 
